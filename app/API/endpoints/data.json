@@ -1,0 +1,49 @@
+{
+  "stats": {
+    "житель": {
+      "total": 4,
+      "line_counts": [
+        2,
+        1,
+        1
+      ]
+    },
+    "фывфывфыть": {
+      "total": 1,
+      "line_counts": [
+        1
+      ]
+    },
+    "жизнь": {
+      "total": 1,
+      "line_counts": [
+        1
+      ]
+    },
+    "доходяга": {
+      "total": 1,
+      "line_counts": [
+        1
+      ]
+    },
+    "проверка": {
+      "total": 1,
+      "line_counts": [
+        1
+      ]
+    },
+    "пробел": {
+      "total": 1,
+      "line_counts": [
+        1
+      ]
+    },
+    "арра": {
+      "total": 1,
+      "line_counts": [
+        1
+      ]
+    }
+  },
+  "num_lines": 5
+}
